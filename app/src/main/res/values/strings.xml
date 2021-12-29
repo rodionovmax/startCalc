@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StartCalc</string>
+    <string name="calc_starter">Calc Starter</string>
+    <string name="start_btn_text">start</string>
 </resources>
